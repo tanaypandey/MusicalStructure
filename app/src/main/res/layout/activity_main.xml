@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/My_music"
+        style="@style/CategoryStyle"
+        android:background="@color/ma_One"
+        android:fontFamily="@font/roboto_thin"
+        android:text="@string/My_music"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/Recent"
+        style="@style/CategoryStyle"
+        android:layout_width="match_parent"
+        android:background="@color/ma_two"
+        android:fontFamily="@font/roboto_thin"
+        android:text="@string/Recents"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/Discover"
+        style="@style/CategoryStyle"
+        android:background="@color/ma_three"
+        android:fontFamily="@font/roboto_thin"
+        android:text="@string/Discover"
+        android:textSize="40sp" />
+
+</LinearLayout>

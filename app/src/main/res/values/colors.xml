@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#3F51B5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#FF4081</color>
+<color name="white">#FFFFFF</color>
+<color name="black">#000000</color>
+<!--main cativity hombre effect title background colors-->
+<color name="ma_One">#0091EA</color>
+<color name="ma_two">#00B0FF</color>
+<color name="ma_three">#40C4FF</color>
+
+</resources>
